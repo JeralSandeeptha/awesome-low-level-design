@@ -162,6 +162,10 @@ Contributions are welcome! If you'd like to add a new problem, improve existing 
 
 Please make sure to update Readme files and documentation as appropriate.
 
+## 📇 Practise Projects
+
+[CLICK HERE TO ACCESS PRACTICE PROJECTS](https://github.com/JeralSandeeptha/Design-Patterns)
+
 ---
 
 <p align="center">
