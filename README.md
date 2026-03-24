@@ -18,6 +18,8 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Inheritance](https://algomaster.io/learn/lld/inheritance)
 - [Polymorphism](https://algomaster.io/learn/lld/polymorphism)
 
+[Check this repo for more info](https://github.com/JeralSandeeptha/JavaScript-OOP)
+
 ## 🔗 Class Relationships
 - [Association](https://algomaster.io/learn/lld/association)
 - [Aggregation](https://algomaster.io/learn/lld/aggregation)
