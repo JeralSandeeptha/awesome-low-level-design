@@ -25,6 +25,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Aggregation](https://algomaster.io/learn/lld/aggregation)
 - [Composition](https://algomaster.io/learn/lld/composition)
 - [Dependency](https://algomaster.io/learn/lld/dependency)
+- [Inheritance]()
 
 ## 🧭 Design Principles
 - [DRY Principle](https://algomaster.io/learn/lld/dry)
